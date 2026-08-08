@@ -1,0 +1,10 @@
+# Python 3.10
+openai
+Pillow
+pydantic
+tqdm
+numpy
+pandas
+matplotlib
+shapely
+pyproj

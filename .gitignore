@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets / local environment
+.env
+.env.*
+*.key
+
+# Generated outputs
+vlm_task_reasoning_output/
+planner_outputs/
+**/vlm_task_reasoning_output/
+**/planner_outputs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
