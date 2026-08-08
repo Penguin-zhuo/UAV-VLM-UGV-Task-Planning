@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "UAV-VLM-UGV Task Planning"
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Zhuo"
+version: "1.0.0"
+date-released: "2026-08-08"
+repository-code: "https://github.com/Penguin-zhuo/UAV-VLM-UGV-Task-Planning"
+url: "https://github.com/Penguin-zhuo/UAV-VLM-UGV-Task-Planning"
+license: "MIT"
+keywords:
+  - "UAV"
+  - "UGV"
+  - "vision-language model"
+  - "task reasoning"
+  - "hierarchical path planning"
+  - "Hybrid A*"
+  - "multi-robot systems"
+abstract: >-
+  Core implementation of a UAV-VLM-UGV task-planning workflow that converts
+  aerial imagery into task-oriented semantic zones, transforms image-space
+  coordinates into metric coordinates, and generates geometry- and risk-aware
+  UGV routes using hierarchical path planning.
